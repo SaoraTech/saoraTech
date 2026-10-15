@@ -1,67 +1,175 @@
-Fousseyni DIALLO
+SaoraTech
 
-<h3 align="center">Vibe Engineer · Founder of Saora</h3><p align="center">
-  <em>Building with logic. Engineering with AI. Thinking long term.</em>
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saoraTech&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
-</p>---
+Engineering Intelligent Software. Building Tomorrow's Technology.
 
-🧠 About Me
+SaoraTech is an ambitious technology ecosystem focused on building intelligent software, advanced digital infrastructure, mathematical technologies, AI systems, and next-generation engineering solutions.
 
-I began exploring AI-assisted software creation in 2023, before vibe coding became a widely recognized term.
+Our mission is to transform ideas into useful, reliable, and scalable technologies while contributing to the development of a stronger technological ecosystem in Africa and beyond.
 
-Since then, I have been developing my approach to technology through logical reasoning, software architecture, problem decomposition, and AI orchestration.
-
-I identify as a Vibe Engineer — someone who uses structured thinking and AI tools to design software systems and work toward turning ideas into functional products.
-
-My journey is still in progress. I have not yet completed or launched a software project. My current objective is to transform my ideas and architectural concepts into working software through practical experience and continuous learning.
-
-- 🧩 Focus: Logical Reasoning & Software Architecture
-- 🤖 Approach: AI-Assisted Engineering & AI Orchestration
-- 🚀 Long-term ambition: Building Saora
-- 🌍 Based in: Mali
-- 📅 Started exploring AI-assisted software creation: 2023
-
-🏢 Saora
-
-I founded "Saora" (https://github.com/SaoraTech) around a long-term vision: building an interconnected technology ecosystem spanning intelligent software, cloud computing, mathematical technologies, and advanced engineering.
-
-Saora represents an ambition I am working to turn into reality, step by step.
-
-🏆 GitHub Profile Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saoraTech&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Profile Trophies" />
-  </a>
-</p>📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saoraTech&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saoraTech&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=saoraTech&theme=radical&hide_border=true" alt="GitHub Streak Statistics" />
-</p>🛠️ Tools & Technologies
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,typescript,react,tailwind,python,cloudflare" alt="Tools and Technologies" />
-  </a>
-</p><p align="center">
-  <em>These icons represent technologies I am exploring or using in my AI-assisted workflow, not a claim of mastery.</em>
-</p>🌱 My Current Goal
-
-My current goal is to move from ideas and architectural concepts to completed, functional software projects.
-
-I aim to gain practical experience, test my decisions, learn from mistakes, and progressively strengthen my engineering capabilities.
-
-🔗 Explore
-
-- 🏢 Saora: "github.com/SaoraTech" (https://github.com/SaoraTech)
-- 🤗 Hugging Face: "huggingface.co/SaoraTech" (https://huggingface.co/SaoraTech)
+🌍 Building from Africa. Engineering for the world.
 
 ---
 
-<p align="center">
-  <em>Started in 2023 · Learning through reasoning · Building toward reality</em>
-</p>
+🌐 Our Vision
+
+To build a globally recognized technology ecosystem that contributes to the future of software engineering, artificial intelligence, cloud computing, mathematics, robotics, and advanced engineering.
+
+We envision a future in which African innovators do not merely consume technology but actively design, develop, and shape the technologies that power the world.
+
+🎯 Our Mission
+
+SaoraTech aims to:
+
+- Engineer intelligent and useful software products.
+- Develop specialized mathematical and AI technologies.
+- Build scalable digital infrastructure and cloud services.
+- Explore advanced engineering and robotics.
+- Create technologies that address real-world problems.
+- Contribute to Africa's technological independence and global competitiveness.
+
+🧭 Our Ecosystem
+
+SaoraTech is designed as a growing ecosystem of specialized platforms, products, and future technology initiatives.
+
+🧠 Alpha — AI & Research
+
+Alpha is Saora's dedicated AI and research subsidiary, focused on artificial intelligence, model development, and intelligence technologies.
+
+Its long-term ambition is to contribute to the development of future AI models and research capabilities.
+
+☁️ Saora Cloud
+
+Saora Cloud is the planned sovereign cloud platform of the Saora ecosystem.
+
+Inspired by the breadth of platforms such as AWS, Microsoft Azure, and Google Cloud, its ambition is to provide cloud infrastructure and services for external developers, businesses, organizations, and technology companies.
+
+Its long-term direction includes scalable infrastructure, developer services, and cloud-based computing capabilities.
+
+➗ SMP — Saora Mathematics Platform
+
+SMP is a planned mathematical technology platform dedicated to mathematical computation, verification, and generation.
+
+It is intended to serve as a reusable mathematical foundation for Saora products and future applications.
+
+Its design philosophy separates deterministic mathematical computation from language-model reasoning: AI can propose, explain, and orchestrate, while specialized mathematical engines handle calculations and verification.
+
+👁️ SVP — Saora Vision Platform
+
+SVP is the planned computer-vision platform within the Saora ecosystem.
+
+It is intended to provide visual-processing capabilities that can support future products and intelligent applications.
+
+🔬 SMV — Saora Mathematics Vision
+
+SMV is a planned mathematical-vision layer designed to process visual mathematical content, including handwritten and printed expressions, mathematical pages, graphs, curves, and figures.
+
+It is intended to combine visual understanding with mathematical capabilities.
+
+---
+
+🚀 Our Products & Projects
+
+📐 Aurex
+
+A mathematics-focused conversational AI assistant.
+
+Aurex aims to help students and independent learners understand mathematics through dialogue, explanations, problem-solving assistance, and mathematical reasoning.
+
+Its initial audience is university students, with an initial focus on West Africa and the ambition to reach a wider international audience.
+
+Repository: "Aurex Backend" (https://github.com/SaoraTech/aurex-back)
+
+📸 Mathora
+
+Making visual mathematics more accessible.
+
+Mathora is a planned mathematical learning and problem-solving product designed to help users work with visual mathematical content, understand problems, and explore their solutions.
+
+Its intended capabilities connect mathematical vision with specialized mathematical computation.
+
+📚 Atlas
+
+A digital learning experience for mathematics.
+
+Atlas is a planned mathematics-learning product for students, independent learners, and educators.
+
+It aims to support mathematical exploration and learning through structured educational experiences and specialized mathematical services.
+
+∫ Calcus
+
+Understand. Reason. Master.
+
+Calcus is a specialized learning product dedicated to calculus, including differential and integral calculus.
+
+Its goal is to help learners build a deeper understanding of concepts, methods, and mathematical reasoning.
+
+⚙️ Bynum
+
+Agentic Engineering.
+
+Bynum is a planned desktop-focused agentic engineering project designed to understand engineering tasks, reason about solutions, and execute work through an integrated engineering workflow.
+
+Its conceptual workflow separates project structuring, engineering reasoning and execution, and the development environment.
+
+🏪 Boutica
+
+Helping businesses manage their operations digitally.
+
+Boutica is a business-management product developed within Fluo, a separate company focused on the digitalization of businesses.
+
+It is not a SaoraTech product. It is mentioned here only as part of the broader entrepreneurial work connected to its founder.
+
+---
+
+🤗 SaoraTech on Hugging Face
+
+Explore SaoraTech's official Hugging Face profile:
+
+👉 "huggingface.co/SaoraTech" (https://huggingface.co/SaoraTech)
+
+Hugging Face provides an ecosystem for publishing and exploring AI models, datasets, and machine-learning applications.
+
+SaoraTech's profile is the public entry point for its AI-related presence on the platform. Future publications may include models, datasets, experiments, and demonstrations as they become available.
+
+Follow the profile to discover future publications and research activities.
+
+---
+
+🛠️ Areas of Interest
+
+Our technology ambitions span several complementary domains:
+
+- Software Engineering — scalable applications, backend systems, and developer tools.
+- Artificial Intelligence — AI systems, model development, and intelligent applications.
+- Cloud Computing — infrastructure, cloud platforms, and distributed services.
+- Mathematical Technologies — computation, symbolic reasoning, verification, and mathematical learning.
+- Computer Vision — visual understanding and processing.
+- Agentic Engineering — AI-assisted workflows for engineering and software development.
+- Robotics & Advanced Engineering — future exploration of intelligent physical systems and advanced technologies.
+
+These areas represent SaoraTech's broader ambitions. Not every platform or capability described here is currently available.
+
+🌍 Our Long-Term Ambition
+
+SaoraTech's long-term ambition is to become a technology ecosystem capable of designing and building products across the software and cloud layers, artificial intelligence, mathematical technologies, robotics, and advanced engineering.
+
+We aim to contribute to a future in which African technology companies participate more actively in global innovation and the development of foundational technologies.
+
+This ambition will be pursued progressively through research, engineering, product development, and the creation of useful solutions.
+
+📌 Current Status
+
+SaoraTech is an evolving ecosystem. Some products are under active development, while other platforms and research initiatives remain in the planning or design stages.
+
+Our public repositories and official project documentation should be consulted for the current implementation status of individual projects.
+
+🤝 Connect with SaoraTech
+
+- GitHub: "github.com/SaoraTech" (https://github.com/SaoraTech)
+- Hugging Face: "huggingface.co/SaoraTech" (https://huggingface.co/SaoraTech)
+
+Follow our repositories and Hugging Face profile to explore our work and discover future developments.
+
+---
+
+SaoraTech — Engineering intelligent software. Building tomorrow's technology.
