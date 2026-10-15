@@ -3,18 +3,18 @@ Fousseyni DIALLO
 <h3 align="center">Vibe Engineer · Founder of Saora</h3><p align="center">
   <em>Building with logic. Engineering with AI. Thinking long term.</em>
 </p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saoraTech&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=saoraTech&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
 </p>---
 
 🧠 About Me
 
 I began exploring AI-assisted software creation in 2023, before vibe coding became a widely recognized term.
 
-My approach focuses on logical reasoning, software architecture, product design, and AI orchestration.
+Since then, I have been developing my approach to technology through logical reasoning, software architecture, problem decomposition, and AI orchestration.
 
 I identify as a Vibe Engineer — someone who uses structured thinking and AI tools to design software systems and work toward turning ideas into functional products.
 
-My journey is still in progress. I have not yet completed or launched a software project, and my current goal is to turn my concepts and architectural designs into working software.
+My journey is still in progress. I have not yet completed or launched a software project. My current objective is to transform my ideas and architectural concepts into working software through practical experience and continuous learning.
 
 - 🧩 Focus: Logical Reasoning & Software Architecture
 - 🤖 Approach: AI-Assisted Engineering & AI Orchestration
@@ -24,9 +24,9 @@ My journey is still in progress. I have not yet completed or launched a software
 
 🏢 Saora
 
-I founded "Saora" (https://github.com/SaoraTech) around a long-term vision: building a technology ecosystem spanning intelligent software, cloud computing, mathematical technologies, and advanced engineering.
+I founded "Saora" (https://github.com/SaoraTech) around a long-term vision: building an interconnected technology ecosystem spanning intelligent software, cloud computing, mathematical technologies, and advanced engineering.
 
-Saora is an ambition I am working to turn into reality, step by step.
+Saora represents an ambition I am working to turn into reality, step by step.
 
 🏆 GitHub Profile Trophies
 
@@ -37,26 +37,28 @@ Saora is an ambition I am working to turn into reality, step by step.
 </p>📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saoraTech&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saoraTech&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saoraTech&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saoraTech&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=saoraTech&theme=radical&hide_border=true" alt="GitHub streak statistics" />
+  <img src="https://streak-stats.demolab.com?user=saoraTech&theme=radical&hide_border=true" alt="GitHub Streak Statistics" />
 </p>🛠️ Tools & Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,typescript,react,tailwind,python,cloudflare" alt="Tools and technologies" />
+    <img src="https://skillicons.dev/icons?i=github,git,typescript,react,tailwind,python,cloudflare" alt="Tools and Technologies" />
   </a>
-</p>These icons represent tools and technologies I am exploring or using in my AI-assisted workflow, not a claim of mastery.
+</p><p align="center">
+  <em>These icons represent technologies I am exploring or using in my AI-assisted workflow, not a claim of mastery.</em>
+</p>🌱 My Current Goal
 
-🌱 My Current Goal
+My current goal is to move from ideas and architectural concepts to completed, functional software projects.
 
-Move from ideas and architectural concepts to completed, functional software projects — learning, testing, and improving along the way.
+I aim to gain practical experience, test my decisions, learn from mistakes, and progressively strengthen my engineering capabilities.
 
 🔗 Explore
 
-- 🏢 "Saora on GitHub" (https://github.com/SaoraTech)
-- 🤗 "SaoraTech on Hugging Face" (https://huggingface.co/SaoraTech)
+- 🏢 Saora: "github.com/SaoraTech" (https://github.com/SaoraTech)
+- 🤗 Hugging Face: "huggingface.co/SaoraTech" (https://huggingface.co/SaoraTech)
 
 ---
 
