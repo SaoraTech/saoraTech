@@ -1,68 +1,67 @@
 # Saora
 
-**Building digital platforms that bring people together.**
+**Consumer Technology Company**
 
-Saora is a technology company focused on designing, developing, and publishing digital platforms for communication, social interaction, communities, and digital content.
+Saora designs, develops, publishes, and operates technology products for everyday life. We build digital experiences that help people communicate, connect, discover, create, share, and enjoy content.
 
-We create original products that help people connect, communicate, share ideas, discover content, and participate in meaningful digital experiences. Our ambition is to build platforms that are useful in everyday life, reliable at scale, and designed for a global audience.
+Our ambition goes beyond any single category of application. We aim to create useful, engaging, and dependable consumer products across communication, social platforms, streaming, entertainment, and other digital experiences.
 
-Saora is part of the **Aeron technology group**, whose broader direction is to create and grow original technology products.
+Saora is an independent technology company building products for a global audience.
 
 ## Our Vision
 
-To shape the future of digital interaction by building accessible, trusted, and meaningful platforms that connect people, communities, and businesses around the world.
+To shape the future of consumer technology by making digital experiences more connected, accessible, engaging, and useful in people's everyday lives.
 
 ## Our Mission
 
-To design, develop, and operate digital platforms that make communication, social connection, content sharing, and community participation more useful and accessible.
+To turn meaningful ideas into well-designed technology products that improve how people communicate, interact, access content, express themselves, and experience the digital world.
 
-We turn product ideas into dependable digital experiences through disciplined software engineering, thoughtful design, and continuous improvement.
+We combine product thinking, thoughtful design, and disciplined software engineering to build products that can grow with their users.
 
 ## What We Build
 
-Saora focuses on digital products across several connected areas:
+Saora develops and explores products across several areas of consumer technology:
 
-- **Messaging & Communication** — Products that make real-time and asynchronous communication simple and dependable.
-- **Social Networking** — Platforms that help people create connections, express themselves, and interact with others.
-- **Social Media & Content** — Experiences for creating, sharing, discovering, and engaging with digital content.
-- **Communities** — Digital spaces where people can gather around shared interests, knowledge, and activities.
-- **Digital Experiences & Commerce** — Connected experiences that help creators, communities, and businesses engage with people.
+- **Communication & Messaging** — Instant messaging, voice and video calls, personal communication, and connected experiences for sharing information and media.
+- **Social Networking & Social Media** — Social networks, profiles, feeds, status updates, communities, and tools for people to connect and interact.
+- **Video Streaming & Entertainment** — Video platforms, on-demand experiences, live streaming, and digital entertainment.
+- **Audio Streaming & Music** — Music and audio platforms, podcasts, digital radio, and other listening experiences.
+- **Creator & Content Platforms** — Products that help people create, publish, discover, distribute, and engage with digital content.
+- **Digital Experiences & Consumer Services** — New consumer-facing services and interactive experiences that respond to evolving digital habits.
 
-These are long-term areas of product development, not a claim that every category is already available.
+These areas describe Saora's broader product ambition. They do not imply that every category or service is currently launched or available.
 
 ## Our First Product
 
 ### Chatty
 
-Chatty is Saora's first major product: a communication platform designed to bring messaging, social publishing, communities, and digital interactions into one connected experience.
+Chatty is Saora's first major product: a communication platform designed to bring people together through messaging and connected social interactions.
 
-Chatty is being developed with a long-term ambition to go beyond traditional messaging and become a broader digital ecosystem.
+Its long-term direction is to grow beyond traditional messaging through richer ways to share, discover, and participate in digital experiences.
 
-## How We Work
+Chatty is the beginning of Saora's product journey, not the limit of what the company intends to build.
 
-We believe successful platforms are built by understanding people, solving real problems, and engineering carefully for long-term use.
+## How We Build
+
+We believe enduring consumer products are built by understanding people, solving real problems, and delivering reliable experiences.
 
 Our approach combines:
 
-- **Product Thinking** — Start with user needs and clear product purpose.
-- **Software Engineering** — Build maintainable, reliable, and scalable systems.
-- **Experience Design** — Make products intuitive, accessible, and coherent.
-- **Privacy & Security** — Treat user trust as a core product requirement.
-- **Continuous Improvement** — Learn from usage, measure what matters, and improve iteratively.
-- **Responsible Innovation** — Adopt emerging technologies when they create meaningful value.
+- **Product Thinking** — Start with real user needs, a clear purpose, and a coherent product strategy.
+- **Software Engineering** — Build maintainable, secure, reliable, and scalable systems.
+- **Experience Design** — Make products intuitive, accessible, and enjoyable to use.
+- **Privacy & Security** — Treat user trust and data protection as essential product requirements.
+- **Continuous Improvement** — Learn from feedback and usage, measure outcomes, and improve continuously.
+- **Responsible Innovation** — Apply emerging technologies when they create meaningful value for users.
 
 ## Our Principles
 
 - Build products with a clear purpose.
-- Put people and their needs first.
-- Protect user privacy and security.
-- Engineer for reliability and scale.
-- Design for accessibility and inclusion.
-- Innovate responsibly and think long term.
-
-## The Aeron Technology Group
-
-Saora operates within the Aeron technology group. Aeron provides the parent-company direction for building and developing technology businesses and products. Saora's focus is the creation and operation of digital platforms for communication and social interaction.
+- Put people and their experiences first.
+- Protect privacy, security, and user trust.
+- Value simplicity, quality, and reliability.
+- Design for accessibility and broad adoption.
+- Think long term and innovate responsibly.
 
 ## Connect With Saora
 
@@ -70,4 +69,4 @@ Saora operates within the Aeron technology group. Aeron provides the parent-comp
 
 ---
 
-**Saora — Building digital platforms that bring people together.**
+**Saora — Building technology for a more connected digital world.**
